@@ -3,7 +3,7 @@
 
 ## Description
 
-This program is meant to be the back end of an e-commerce site. 
+This program is meant to be the functioning back end of an e-commerce site. 
 
 ## Table of Contents
 - [Usage](#usage)
@@ -15,11 +15,11 @@ This program is meant to be the back end of an e-commerce site.
 
 ## Usage
 
-
+You can use this website to update your inventory and function the backend of an e-commerce website.
 
 ## Installation
 
-
+The installation includes sequalize and node, and functions on insomnia.
 
 ## Credits & Contributions
 
